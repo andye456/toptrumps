@@ -1,0 +1,272 @@
+{"cards":[
+  {
+    "Individual": "Cocker Spaniel",
+    "Size": 3,
+    "Rarity": 2,
+    "Good Temper": 5,
+    "Cuteness": 21,
+    "Top Trumps Rating": 49,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Pug",
+    "Size": 1,
+    "Rarity": 2,
+    "Good Temper": 4,
+    "Cuteness": 27,
+    "Top Trumps Rating": 40,
+    "Country": "China"
+  },
+  {
+    "Individual": "Bulldog",
+    "Size": 3,
+    "Rarity": 4,
+    "Good Temper": 4,
+    "Cuteness": 25,
+    "Top Trumps Rating": 10,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Boxer",
+    "Size": 4,
+    "Rarity": 5,
+    "Good Temper": 5,
+    "Cuteness": 26,
+    "Top Trumps Rating": 19,
+    "Country": "Germany"
+  },
+  {
+    "Individual": "German Shepherd",
+    "Size": 4,
+    "Rarity": 1,
+    "Good Temper": 4,
+    "Cuteness": 15,
+    "Top Trumps Rating": 51,
+    "Country": "Germany"
+  },
+  {
+    "Individual": "Dalmatian",
+    "Size": 4,
+    "Rarity": 6,
+    "Good Temper": 3,
+    "Cuteness": 16,
+    "Top Trumps Rating": 80,
+    "Country": "Croatia"
+  },
+  {
+    "Individual": "Beagle",
+    "Size": 2,
+    "Rarity": 2,
+    "Good Temper": 3,
+    "Cuteness": 20,
+    "Top Trumps Rating": 49,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Chihuahua",
+    "Size": 1,
+    "Rarity": 4,
+    "Good Temper": 2,
+    "Cuteness": 29,
+    "Top Trumps Rating": 85,
+    "Country": "Mexico"
+  },
+  {
+    "Individual": "Staffordshire Bull Terrier",
+    "Size": 3,
+    "Rarity": 4,
+    "Good Temper": 5,
+    "Cuteness": 14,
+    "Top Trumps Rating": 60,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Shih Tzu",
+    "Size": 2,
+    "Rarity": 7,
+    "Good Temper": 5,
+    "Cuteness": 25,
+    "Top Trumps Rating": 35,
+    "Country": "China"
+  },
+  {
+    "Individual": "Border Terrier",
+    "Size": 2,
+    "Rarity": 6,
+    "Good Temper": 3,
+    "Cuteness": 10,
+    "Top Trumps Rating": 40,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Golden Retriever",
+    "Size": 4,
+    "Rarity": 2,
+    "Good Temper": 5,
+    "Cuteness": 27,
+    "Top Trumps Rating": 75,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Pembroke Welsh Corgi",
+    "Size": 1,
+    "Rarity": 4,
+    "Good Temper": 3,
+    "Cuteness": 18,
+    "Top Trumps Rating": 65,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Poodle",
+    "Size": 3,
+    "Rarity": 6,
+    "Good Temper": 2,
+    "Cuteness": 27,
+    "Top Trumps Rating": 60,
+    "Country": "France"
+  },
+  {
+    "Individual": "Daschund",
+    "Size": 2,
+    "Rarity": 5,
+    "Good Temper": 2,
+    "Cuteness": 29,
+    "Top Trumps Rating": 67,
+    "Country": "Germany"
+  },
+  {
+    "Individual": "Husky",
+    "Size": 4,
+    "Rarity": 6,
+    "Good Temper": 5,
+    "Cuteness": 22,
+    "Top Trumps Rating": 88,
+    "Country": "Russia"
+  },
+  {
+    "Individual": "Alaskan Malamute",
+    "Size": 5,
+    "Rarity": 7,
+    "Good Temper": 2,
+    "Cuteness": 15,
+    "Top Trumps Rating": 80,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Dobermann Pinscher",
+    "Size": 4,
+    "Rarity": 4,
+    "Good Temper": 3,
+    "Cuteness": 18,
+    "Top Trumps Rating": 50,
+    "Country": "Germany"
+  },
+  {
+    "Individual": "Great Dane",
+    "Size": 6,
+    "Rarity": 8,
+    "Good Temper": 3,
+    "Cuteness": 20,
+    "Top Trumps Rating": 50,
+    "Country": "Germany"
+  },
+  {
+    "Individual": "Maltese",
+    "Size": 1,
+    "Rarity": 7,
+    "Good Temper": 2,
+    "Cuteness": 22,
+    "Top Trumps Rating": 66,
+    "Country": "Italy"
+  },
+  {
+    "Individual": "Basset Hound",
+    "Size": 3,
+    "Rarity": 4,
+    "Good Temper": 3,
+    "Cuteness": 27,
+    "Top Trumps Rating": 55,
+    "Country": "France"
+  },
+  {
+    "Individual": "Saint Bernard",
+    "Size": 6,
+    "Rarity": 8,
+    "Good Temper": 4,
+    "Cuteness": 25,
+    "Top Trumps Rating": 94,
+    "Country": "Switzerland"
+  },
+  {
+    "Individual": "Border Collie",
+    "Size": 3,
+    "Rarity": 8,
+    "Good Temper": 5,
+    "Cuteness": 19,
+    "Top Trumps Rating": 86,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Greyhound",
+    "Size": 4,
+    "Rarity": 6,
+    "Good Temper": 5,
+    "Cuteness": 27,
+    "Top Trumps Rating": 25,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Rought Collie",
+    "Size": 4,
+    "Rarity": 7,
+    "Good Temper": 5,
+    "Cuteness": 27,
+    "Top Trumps Rating": 45,
+    "Country": "UK"
+  },
+  {
+    "Individual": "Afghan Hound",
+    "Size": 4,
+    "Rarity": 9,
+    "Good Temper": 3,
+    "Cuteness": 29,
+    "Top Trumps Rating": 25,
+    "Country": "Afghanistan"
+  },
+  {
+    "Individual": "Stray Dog",
+    "Size": 3,
+    "Rarity": 5,
+    "Good Temper": 2,
+    "Cuteness": 15,
+    "Top Trumps Rating": 100,
+    "Country": "various"
+  },
+  {
+    "Individual": "Wolf",
+    "Size": 6,
+    "Rarity": 10,
+    "Good Temper": 2,
+    "Cuteness": 27,
+    "Top Trumps Rating": 99,
+    "Country": "various"
+  },
+  {
+    "Individual": "Scooby Doo",
+    "Size": 6,
+    "Rarity": 10,
+    "Good Temper": 5,
+    "Cuteness": 25,
+    "Top Trumps Rating": 85,
+    "Country": "tv"
+  },
+  {
+    "Individual": "Labrador Retriever",
+    "Size": 4,
+    "Rarity": 1,
+    "Good Temper": 5,
+    "Cuteness": 28,
+    "Top Trumps Rating": 90,
+    "Country": "Canada"
+  }
+]}
