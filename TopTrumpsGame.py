@@ -16,6 +16,7 @@ class TopTrumpsGame(object):
         print "add player"
         self.player.append(Player(name,cards))
 
+
     def main(self):
         # Select the deck to use
         pack_name=Card.select_deck()
