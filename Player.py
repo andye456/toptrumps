@@ -1,4 +1,4 @@
-from Card import CardDeck
+import Card
 
 '''
 This is the player object, it selects the given number of cards randomly from the deck
@@ -16,7 +16,7 @@ class Player():
     # loop through the number of cards required and select random ones from the deck
     def createCards(self):
         for i in range(0,self.number_of_cards):
-            self.your_cards.append(CardDeck.select_random_card())
+            self.your_cards.append(Card.select_random_card())
 
 
     def getHand(self):

@@ -1,0 +1,242 @@
+[
+  {
+    "Individual": "Brroklyn Bridge",
+    "Height (feet)": 354,
+    "Time to Walk from Times Square (minutes)": 60,
+    "Year Built": 1870,
+    "Fame": 39,
+    "Must-See": 6
+  },
+  {
+    "Individual": "NY Public Library",
+    "Height (feet)": 98,
+    "Time to Walk from Times Square (minutes)": 10,
+    "Year Built": 1895,
+    "Fame": 29,
+    "Must-See": 4
+  },
+  {
+    "Individual": "MET",
+    "Height (feet)": "",
+    "Time to Walk from Times Square (minutes)": 40,
+    "Year Built": "",
+    "Fame": 29,
+    "Must-See": 8
+  },
+  {
+    "Individual": "FAO Schwarz",
+    "Height (feet)": "",
+    "Time to Walk from Times Square (minutes)": 25,
+    "Year Built": 1931,
+    "Fame": 41,
+    "Must-See": 7
+  },
+  {
+    "Individual": "Yankee Stadium",
+    "Height (feet)": 301,
+    "Time to Walk from Times Square (minutes)": 120,
+    "Year Built": 1932,
+    "Fame": 27,
+    "Must-See": 5
+  },
+  {
+    "Individual": "The Statue of Liberty",
+    "Height (feet)": 305,
+    "Time to Walk from Times Square (minutes)": 115,
+    "Year Built": 1886,
+    "Fame": 50,
+    "Must-See": 10
+  },
+  {
+    "Individual": "Wall Street",
+    "Height (feet)": 925,
+    "Time to Walk from Times Square (minutes)": 70,
+    "Year Built": 1685,
+    "Fame": 39,
+    "Must-See": 7
+  },
+  {
+    "Individual": "Rockefeller Center",
+    "Height (feet)": 850,
+    "Time to Walk from Times Square (minutes)": 15,
+    "Year Built": 1930,
+    "Fame": 42,
+    "Must-See": 10
+  },
+  {
+    "Individual": "MoMA",
+    "Height (feet)": "",
+    "Time to Walk from Times Square (minutes)": 20,
+    "Year Built": "",
+    "Fame": 23,
+    "Must-See": 8
+  },
+  {
+    "Individual": "Harlem",
+    "Height (feet)": 294,
+    "Time to Walk from Times Square (minutes)": 80,
+    "Year Built": 1658,
+    "Fame": 38,
+    "Must-See": 4
+  },
+  {
+    "Individual": "Bronx Zoo",
+    "Height (feet)": 25,
+    "Time to Walk from Times Square (minutes)": 170,
+    "Year Built": 1899,
+    "Fame": 24,
+    "Must-See": 8
+  },
+  {
+    "Individual": "Ellis Island",
+    "Height (feet)": 120,
+    "Time to Walk from Times Square (minutes)": 95,
+    "Year Built": 1892,
+    "Fame": 34,
+    "Must-See": 9
+  },
+  {
+    "Individual": "Central Park",
+    "Height (feet)": "",
+    "Time to Walk from Times Square (minutes)": 25,
+    "Year Built": 1857,
+    "Fame": 49,
+    "Must-See": 10
+  },
+  {
+    "Individual": "Broadway",
+    "Height (feet)": 792,
+    "Time to Walk from Times Square (minutes)": 2,
+    "Year Built": 1900,
+    "Fame": 44,
+    "Must-See": 6
+  },
+  {
+    "Individual": "Radio City Music Hall",
+    "Height (feet)": 84,
+    "Time to Walk from Times Square (minutes)": 10,
+    "Year Built": 1929,
+    "Fame": 28,
+    "Must-See": 4
+  },
+  {
+    "Individual": "Grand Central Terminal",
+    "Height (feet)": 130,
+    "Time to Walk from Times Square (minutes)": 10,
+    "Year Built": 1913,
+    "Fame": 43,
+    "Must-See": 8
+  },
+  {
+    "Individual": "The Hudson River",
+    "Height (feet)": 216,
+    "Time to Walk from Times Square (minutes)": 15,
+    "Year Built": "",
+    "Fame": 27,
+    "Must-See": 6
+  },
+  {
+    "Individual": "Times Square",
+    "Height (feet)": 1046,
+    "Time to Walk from Times Square (minutes)": 0,
+    "Year Built": 1904,
+    "Fame": 49,
+    "Must-See": 10
+  },
+  {
+    "Individual": "Coney Island",
+    "Height (feet)": 85,
+    "Time to Walk from Times Square (minutes)": 270,
+    "Year Built": 1880,
+    "Fame": 29,
+    "Must-See": 4
+  },
+  {
+    "Individual": "Subway",
+    "Height (feet)": 160,
+    "Time to Walk from Times Square (minutes)": 1,
+    "Year Built": 1904,
+    "Fame": 42,
+    "Must-See": 10
+  },
+  {
+    "Individual": "Empire State Building",
+    "Height (feet)": 1472,
+    "Time to Walk from Times Square (minutes)": 15,
+    "Year Built": 1930,
+    "Fame": 46,
+    "Must-See": 10
+  },
+  {
+    "Individual": "The Highl Line",
+    "Height (feet)": 30,
+    "Time to Walk from Times Square (minutes)": 35,
+    "Year Built": 2009,
+    "Fame": 26,
+    "Must-See": 5
+  },
+  {
+    "Individual": "Macy's",
+    "Height (feet)": 322,
+    "Time to Walk from Times Square (minutes)": 10,
+    "Year Built": 1903,
+    "Fame": 30,
+    "Must-See": 6
+  },
+  {
+    "Individual": "Memorial Plaza (Ground Zero)",
+    "Height (feet)": 1776,
+    "Time to Walk from Times Square (minutes)": 65,
+    "Year Built": 2013,
+    "Fame": 26,
+    "Must-See": 10
+  },
+  {
+    "Individual": "Greenwich Village",
+    "Height (feet)": 387,
+    "Time to Walk from Times Square (minutes)": 40,
+    "Year Built": 1696,
+    "Fame": 33,
+    "Must-See": 4
+  },
+  {
+    "Individual": "Madison Square Gardens",
+    "Height (feet)": 350,
+    "Time to Walk from Times Square (minutes)": 10,
+    "Year Built": 1968,
+    "Fame": 27,
+    "Must-See": 3
+  },
+  {
+    "Individual": "Fifth Avenue",
+    "Height (feet)": 690,
+    "Time to Walk from Times Square (minutes)": 10,
+    "Year Built": 1899,
+    "Fame": 48,
+    "Must-See": 7
+  },
+  {
+    "Individual": "Taxi Cab",
+    "Height (feet)": 5,
+    "Time to Walk from Times Square (minutes)": 0,
+    "Year Built": 1937,
+    "Fame": 42,
+    "Must-See": 10
+  },
+  {
+    "Individual": "St Patrick's Cathedral",
+    "Height (feet)": 330,
+    "Time to Walk from Times Square (minutes)": 15,
+    "Year Built": 1858,
+    "Fame": 26,
+    "Must-See": 3
+  },
+  {
+    "Individual": "Union Square",
+    "Height (feet)": 401,
+    "Time to Walk from Times Square (minutes)": 30,
+    "Year Built": 1882,
+    "Fame": 31,
+    "Must-See": 4
+  }
+]

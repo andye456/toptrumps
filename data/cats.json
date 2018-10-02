@@ -1,0 +1,272 @@
+[
+  {
+    "Individual": "Abyssinian",
+    "Size": 2,
+    "Rarity": 4,
+    "Good Temper": 2,
+    "Cuteness": 16,
+    "Top Trumps Mischief Rating": 82,
+    "Country": "Egypt"
+  },
+  {
+    "Individual": "American Bobtail",
+    "Size": 4,
+    "Rarity": 6,
+    "Good Temper": 4,
+    "Cuteness": 23,
+    "Top Trumps Mischief Rating": 77,
+    "Country": "Ethiopia"
+  },
+  {
+    "Individual": "American Curl",
+    "Size": 2,
+    "Rarity": 7,
+    "Good Temper": 5,
+    "Cuteness": 28,
+    "Top Trumps Mischief Rating": 79,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Balinese (aka Javanese)",
+    "Size": 3,
+    "Rarity": 8,
+    "Good Temper": 4,
+    "Cuteness": 18,
+    "Top Trumps Mischief Rating": 80,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Bengal",
+    "Size": 4,
+    "Rarity": 1,
+    "Good Temper": 3,
+    "Cuteness": 16,
+    "Top Trumps Mischief Rating": 75,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Bombay",
+    "Size": 3,
+    "Rarity": 2,
+    "Good Temper": 5,
+    "Cuteness": 25,
+    "Top Trumps Mischief Rating": 74,
+    "Country": "USA"
+  },
+  {
+    "Individual": "British Shorthair",
+    "Size": 4,
+    "Rarity": 1,
+    "Good Temper": 4,
+    "Cuteness": 26,
+    "Top Trumps Mischief Rating": 81,
+    "Country": "England"
+  },
+  {
+    "Individual": "Devon Rex",
+    "Size": 2,
+    "Rarity": 7,
+    "Good Temper": 5,
+    "Cuteness": 20,
+    "Top Trumps Mischief Rating": 83,
+    "Country": "England"
+  },
+  {
+    "Individual": "Egyptian Mau",
+    "Size": 3,
+    "Rarity": 7,
+    "Good Temper": 2,
+    "Cuteness": 24,
+    "Top Trumps Mischief Rating": 88,
+    "Country": "Egypt"
+  },
+  {
+    "Individual": "Japanese Bobtail",
+    "Size": 3,
+    "Rarity": 8,
+    "Good Temper": 5,
+    "Cuteness": 28,
+    "Top Trumps Mischief Rating": 90,
+    "Country": "Japan"
+  },
+  {
+    "Individual": "LOL Cats",
+    "Size": 3,
+    "Rarity": 1,
+    "Good Temper": 3,
+    "Cuteness": 29,
+    "Top Trumps Mischief Rating": 97,
+    "Country": "The Internet"
+  },
+  {
+    "Individual": "Maine Coon",
+    "Size": 5,
+    "Rarity": 2,
+    "Good Temper": 4,
+    "Cuteness": 22,
+    "Top Trumps Mischief Rating": 85,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Manx",
+    "Size": 4,
+    "Rarity": 9,
+    "Good Temper": 3,
+    "Cuteness": 26,
+    "Top Trumps Mischief Rating": 78,
+    "Country": "Isle of Man"
+  },
+  {
+    "Individual": "Norwegian Forest",
+    "Size": 5,
+    "Rarity": 3,
+    "Good Temper": 5,
+    "Cuteness": 20,
+    "Top Trumps Mischief Rating": 89,
+    "Country": "Norway"
+  },
+  {
+    "Individual": "Persian",
+    "Size": 4,
+    "Rarity": 2,
+    "Good Temper": 5,
+    "Cuteness": 26,
+    "Top Trumps Mischief Rating": 70,
+    "Country": "Iran"
+  },
+  {
+    "Individual": "Ocicat",
+    "Size": 3,
+    "Rarity": 7,
+    "Good Temper": 4,
+    "Cuteness": 15,
+    "Top Trumps Mischief Rating": 74,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Ragdoll",
+    "Size": 4,
+    "Rarity": 5,
+    "Good Temper": 5,
+    "Cuteness": 22,
+    "Top Trumps Mischief Rating": 80,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Ragamuffin",
+    "Size": 5,
+    "Rarity": 6,
+    "Good Temper": 4,
+    "Cuteness": 27,
+    "Top Trumps Mischief Rating": 84,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Russian Blue",
+    "Size": 2,
+    "Rarity": 8,
+    "Good Temper": 3,
+    "Cuteness": 18,
+    "Top Trumps Mischief Rating": 78,
+    "Country": "Russia"
+  },
+  {
+    "Individual": "Savannah",
+    "Size": 3,
+    "Rarity": 9,
+    "Good Temper": 3,
+    "Cuteness": 18,
+    "Top Trumps Mischief Rating": 80,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Scottish Fold",
+    "Size": 2,
+    "Rarity": 8,
+    "Good Temper": 5,
+    "Cuteness": 29,
+    "Top Trumps Mischief Rating": 91,
+    "Country": "Scotland"
+  },
+  {
+    "Individual": "Selkirk Rex",
+    "Size": 3,
+    "Rarity": 6,
+    "Good Temper": 4,
+    "Cuteness": 25,
+    "Top Trumps Mischief Rating": 87,
+    "Country": "USA"
+  },
+  {
+    "Individual": "Siamese",
+    "Size": 2,
+    "Rarity": 3,
+    "Good Temper": 5,
+    "Cuteness": 13,
+    "Top Trumps Mischief Rating": 69,
+    "Country": "Thailand"
+  },
+  {
+    "Individual": "Siberian",
+    "Size": 4,
+    "Rarity": 6,
+    "Good Temper": 3,
+    "Cuteness": 23,
+    "Top Trumps Mischief Rating": 81,
+    "Country": "Russia"
+  },
+  {
+    "Individual": "Singapura",
+    "Size": 1,
+    "Rarity": 7,
+    "Good Temper": 4,
+    "Cuteness": 12,
+    "Top Trumps Mischief Rating": 80,
+    "Country": "Singapore"
+  },
+  {
+    "Individual": "Sphynx",
+    "Size": 3,
+    "Rarity": 9,
+    "Good Temper": 4,
+    "Cuteness": 3,
+    "Top Trumps Mischief Rating": 71,
+    "Country": "Canada"
+  },
+  {
+    "Individual": "Gumball",
+    "Size": 1,
+    "Rarity": 5,
+    "Good Temper": 7,
+    "Cuteness": 14,
+    "Top Trumps Mischief Rating": 90,
+    "Country": "The World"
+  },
+  {
+    "Individual": "Tiger",
+    "Size": 6,
+    "Rarity": 10,
+    "Good Temper": 0,
+    "Cuteness": 9,
+    "Top Trumps Mischief Rating": 95,
+    "Country": "India"
+  },
+  {
+    "Individual": "Turkish Van",
+    "Size": 4,
+    "Rarity": 8,
+    "Good Temper": 2,
+    "Cuteness": 20,
+    "Top Trumps Mischief Rating": 83,
+    "Country": "Turkey"
+  },
+  {
+    "Individual": "Stray Cat",
+    "Size": 3,
+    "Rarity": 1,
+    "Good Temper": 5,
+    "Cuteness": 19,
+    "Top Trumps Mischief Rating": 99,
+    "Country": "Canada"
+  }
+]

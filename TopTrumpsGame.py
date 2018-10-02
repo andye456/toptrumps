@@ -1,5 +1,5 @@
 from Player import Player
-from Card import CardDeck
+import Card
 import pprint, time
 
 class TopTrumpsGame(object):
@@ -17,8 +17,10 @@ class TopTrumpsGame(object):
         self.player.append(Player(name,cards))
 
     def main(self):
+        # Select the deck to use
+        pack_name=Card.select_deck()
         # Get the deck of cards from the json file
-        number_of_cards = CardDeck.open_deck()
+        number_of_cards = Card.open_deck(pack_name)
         # half the deck each
         cards_to_deal = number_of_cards/2
         # Add two players
